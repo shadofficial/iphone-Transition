@@ -1,9 +1,4 @@
-// ===========================
-// Twitter: www.twitter.com/enipx
-// Dribble: www.https://dribbble.com/enipx
-// Behance: https://www.behance.net/enipx
-// Github: http://github.com/enipx;
-// ===========================
+
 const nav_time 	= document.querySelector(".top_nav .time"),
 	  home_time	= document.querySelector(".date_time .time"),
 	  home_date = document.querySelector(".date_time .date"),
