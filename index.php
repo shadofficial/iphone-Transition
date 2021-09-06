@@ -2,12 +2,12 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>Iphine 11 Design with CSS</title>
+  <title>Overlay design</title>
   <meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<meta name="description" content="Responsive Live Animated Iphone 11 Design Using CSS & JS">
-	<meta name="author" content="Hashir">
+	<meta name="author" content="shad">
 	<title>Responsive Animated Iphone 11</title>
 	<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet"><link rel="stylesheet" href="./style.css">
 
@@ -38,13 +38,7 @@
 					<li><button class="u_phone">Unlock Phone</button></li>
 					<li><button class="s_back">Show BackCase</button></li>
 				</ul>
-				<!-- ------- Social ------- 
-				<ul class="social">
-					<li><a href="https://codepen.io/enipx" target="_blank"><img src="https://iphone11.netlify.app/asset/img/codepen.svg"></a></li>
-					<li><a href="https://dribbble.com/enipx" target="_blank"><img src="https://iphone11.netlify.app/asset/img/dribbble.svg"></a></li>
-					<li><a href="https://github.com/enipx" target="_blank"><img src="https://iphone11.netlify.app/asset/img/github.svg"></a></li>
-					<li><a href="https://twitter.com/enipx" target="_blank"><img src="https://iphone11.netlify.app/asset/img/twitter.svg"></a></li>
-				</ul>-->
+				
 			</div>
 		</nav>
 
